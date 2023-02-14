@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="arka">
+    <file>Resimler/fog.png</file>
+    <file>Resimler/rain.png</file>
+    <file>Resimler/season.png</file>
+    <file>Resimler/snow.png</file>
+    <file>Resimler/storm.png</file>
+    <file>Resimler/welcome-back.png</file>
+    <file>Resimler/power.png</file>
+    <file>Resimler/cloud.png</file>
+    <file>Resimler/cloudy (1).png</file>
+    <file>Resimler/cloudy.png</file>
+    <file>Resimler/sun.png</file>
+    <file>Resimler/temperature.png</file>
+    <file>Resimler/tumblr_84bb16cbc6c08c356ac185fcb749197e_7d4d30a9_640.jpg</file>
+    <file>Resimler/HD-wallpaper-gokyuzu-galaxy-night-note-purple-resullcanndemirrx-sky-solar-star-stars-system.jpg</file>
+  </qresource>
+</RCC>
